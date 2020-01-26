@@ -15,7 +15,7 @@ import csci4380.finalp.dogs.mongodb.model.Dog;
 
 
 /**
- * @author stajekankati
+ * @author Diego De Los Santos
  *
  */
 @Repository
