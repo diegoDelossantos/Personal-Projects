@@ -13,7 +13,7 @@ import csci4380.finalp.dogs.mongodb.model.Dog;
 import csci4380.finalp.dogs.mongodb.repo.DogRepository;
 
 /**
- * @author stajekankati
+ * @author Diego De Los Santos
  *
  */
 public class DogDb {
