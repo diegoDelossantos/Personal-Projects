@@ -12,7 +12,7 @@ import org.springframework.data.repository.query.Param;
 import csci4380.finalp.cats.jpa.model.Cat;
 
 /**
- * @author stajekankati
+ * @author Diego De Los Santos
  *
  */
 public interface CatRepository extends JpaRepository<Cat, Integer> {
