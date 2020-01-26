@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  ProducerConsumer.cpp
+c:\users\diegod15\desktop\producerconsumer\producerconsumer\producerconsumer.cpp(51): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ProducerConsumer.vcxproj -> C:\Users\diegod15\Desktop\ProducerConsumer\Debug\ProducerConsumer.exe
