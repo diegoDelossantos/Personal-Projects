@@ -31,7 +31,7 @@ import csci4380.finalp.cats.jpa.repo.CatRepository;
 
 
 /**
- * @author stajekankati
+ * @author Diego De Los Santos
  *
  */
 @RestController
