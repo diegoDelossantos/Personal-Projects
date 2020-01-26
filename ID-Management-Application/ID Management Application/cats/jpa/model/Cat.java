@@ -8,7 +8,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 /**
- * @author stajekankati
+ * @author Diego De Los Satos
  *
  */
 @Entity(name = "CAT")
